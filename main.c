@@ -62,10 +62,9 @@ int main(void){
                     al_rest(5.0);
                     troca_tela(boas_vindas[1], boas_vindas[2]);
                     al_rest(5.0);
-                    //troca_tela(boas_vindas[2], boas_vindas[3]);
-                    //al_rest(5.0);
-                    troca_tela(boas_vindas[2], transicaoTerra);
-                    al_draw_text(fontSize, al_map_rgb(0, 0, 255), 20, 520, 0, ALLEGRO_ALIGN_CENTER);
+                    troca_tela(boas_vindas[2], boas_vindas[3]);
+                    al_rest(5.0);
+                    al_draw_text(fontSize, al_map_rgb(0, 0, 255), 20, 520, ALLEGRO_ALIGN_CENTER);
                     break ;
                 }
                 tecla = 0;
