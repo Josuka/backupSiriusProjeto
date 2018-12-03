@@ -6,7 +6,7 @@
 	<allegro5/allegro_image.h>
 	<allegro5/allegro_native_dialog.h>
 
-1538497656 source:/home/pc/Documents/projetoIntegrador/Selby/main.c
+1543634588 source:/home/pc/Documents/projetoIntegrador/Selby/main.c
 	<allegro5/allegro.h>
 	<allegro5/allegro_font.h>
 	<allegro5/allegro_ttf.h>
@@ -14,6 +14,9 @@
 	<allegro5/allegro_primitives.h>
 	<stdio.h>
 	<stdbool.h>
+	"definicoes.h"
+	"variaveis.h"
+	"funcoes_basicas.h"
 
 1537563639 source:/home/pc/Documents/projetoIntegrador/Selby/teste.c
 	<allegro5/allegro.h>
@@ -37,12 +40,46 @@
 
 1541187131 /home/freitas/Documentos/projetoIntegrador/Selby/funcoes_basicas.h
 
-1541455003 source:/home/josue/Documentos/projetoIntegrador/Selby/main.c
+1543271824 source:/home/josue/Documentos/projetoIntegrador/Selby/main.c
+	<allegro5/allegro.h>
+	<allegro5/allegro_font.h>
+	<allegro5/allegro_ttf.h>
+	<allegro5/allegro_image.h>
+	<allegro5/allegro_primitives.h>
+	<stdio.h>
+	<stdbool.h>
 	"definicoes.h"
 	"variaveis.h"
 	"funcoes_basicas.h"
 
-1541454732 /home/josue/Documentos/projetoIntegrador/Selby/definicoes.h
+1543271684 /home/josue/Documentos/projetoIntegrador/Selby/definicoes.h
+	<allegro5/allegro.h>
+	<allegro5/allegro_font.h>
+	<allegro5/allegro_ttf.h>
+	<allegro5/allegro_image.h>
+	<allegro5/allegro_primitives.h>
+	<allegro5/allegro_audio.h>
+	<allegro5/allegro_acodec.h>
+	<stdio.h>
+	<stdbool.h>
+
+1543272254 /home/josue/Documentos/projetoIntegrador/Selby/variaveis.h
+
+1543272182 /home/josue/Documentos/projetoIntegrador/Selby/funcoes_basicas.h
+
+1543112180 source:/home/dcel/Documentos/projetoIntegrador/Selby/main.c
+	<allegro5/allegro.h>
+	<allegro5/allegro_font.h>
+	<allegro5/allegro_ttf.h>
+	<allegro5/allegro_image.h>
+	<allegro5/allegro_primitives.h>
+	<stdio.h>
+	<stdbool.h>
+	"definicoes.h"
+	"variaveis.h"
+	"funcoes_basicas.h"
+
+1542712408 /home/dcel/Documentos/projetoIntegrador/Selby/definicoes.h
 	<allegro5/allegro.h>
 	<allegro5/allegro_font.h>
 	<allegro5/allegro_ttf.h>
@@ -51,7 +88,22 @@
 	<stdio.h>
 	<stdbool.h>
 
-1541454835 /home/josue/Documentos/projetoIntegrador/Selby/variaveis.h
+1543111290 /home/dcel/Documentos/projetoIntegrador/Selby/variaveis.h
 
-1541454919 /home/josue/Documentos/projetoIntegrador/Selby/funcoes_basicas.h
+1543111781 /home/dcel/Documentos/projetoIntegrador/Selby/funcoes_basicas.h
+
+1543377317 /home/pc/Documents/projetoIntegrador/Selby/definicoes.h
+	<allegro5/allegro.h>
+	<allegro5/allegro_font.h>
+	<allegro5/allegro_ttf.h>
+	<allegro5/allegro_image.h>
+	<allegro5/allegro_primitives.h>
+	<allegro5/allegro_audio.h>
+	<allegro5/allegro_acodec.h>
+	<stdio.h>
+	<stdbool.h>
+
+1543377318 /home/pc/Documents/projetoIntegrador/Selby/variaveis.h
+
+1543377317 /home/pc/Documents/projetoIntegrador/Selby/funcoes_basicas.h
 
